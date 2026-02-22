@@ -1,0 +1,7 @@
+Experiment 5: Implement a noise model and apply spatial filtering techniques for image restoration.
+Theory
+Noise degrades image quality during acquisition or transmission. Gaussian noise and salt-and-pepper noise are common models. Spatial filters such as mean and median filters are used for restoration.
+Algorithm
+1.	Add Gaussian and salt-and-pepper noise to the image.
+2.	Apply mean and median filtering.
+3.	Compare noisy and restored images.
