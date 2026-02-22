@@ -1,0 +1,7 @@
+Experiment 4: Apply frequency domain filtering to an image. Implement both low pass and high pass filters, and demonstrate their effects.
+Theory
+Frequency domain filtering modifies image characteristics by manipulating its Fourier transform. Low pass filters reduce noise and blur the image, whereas high pass filters enhance edges.
+Algorithm
+1.	Convert image to frequency domain using FFT.
+2.	Apply low pass and high pass masks.
+3.	Convert back to spatial domain using inverse FFT.
