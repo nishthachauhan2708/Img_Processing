@@ -1,0 +1,3 @@
+Experiment 6: Periodic noise reduction using inverse filtering and Wiener filtering.
+Theory
+Inverse filtering attempts to reverse degradation, while Wiener filtering minimizes mean square error considering noise.
