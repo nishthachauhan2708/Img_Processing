@@ -64,3 +64,4 @@ print("• Medium resolution slightly reduces clarity but remains readable.")
 print("• Low resolution causes major text blur and poor OCR performance.")
 print("• Lower gray levels create banding and remove fine details.")
 print("• Best OCR quality occurs at high resolution with 256 gray levels.")
+
